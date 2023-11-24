@@ -104,5 +104,5 @@ xdg==5
 yarl==1.8.1
 #zipp
 #goodreads~=0.3.2
-os
+
 # threading
