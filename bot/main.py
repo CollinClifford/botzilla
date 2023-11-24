@@ -3,6 +3,7 @@ from message_handler import handle_message
 from keep_alive import keep_alive
 import os
 import json
+import discord
 
 current_script_directory = os.path.dirname(os.path.abspath(__file__))
 project_directory = os.path.abspath(os.path.join(current_script_directory, '..', '..'))
@@ -21,7 +22,7 @@ async def on_connect():
 async def on_ready():
     print('We have logged in as {0.user}'.format(discord_client))
     # Set the bot's presence
-    await discord_client.change_presence(activity=discord.Game(name="your game"))
+    await discord_client.change_presence(activity=discord.Game(name="Fallout: New Tokyo"))
 
 @discord_client.event
 async def on_message(message):
