@@ -28,5 +28,5 @@ async def on_ready():
 async def on_message(message):
     await handle_message(message, original_json)
 
-discord_client.run(discord_token)
 keep_alive()
+discord_client.run(discord_token)
