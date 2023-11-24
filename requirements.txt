@@ -78,6 +78,8 @@ python-dateutil==1.5
 python-decouple==3.1
 pytz==2022.1
 pyxdg==0.27
+# PyYAML==5.4.1
+ruamel.yaml==0.17.16
 reportlab==3.6.8
 requests==2.25.1
 SecretStorage==3.3.1
@@ -102,4 +104,3 @@ xdg==5
 yarl==1.8.1
 zipp==1.0.0
 goodreads~=0.3.2
-PyYAML==5.4.1
