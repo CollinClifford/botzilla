@@ -102,7 +102,7 @@ wrapt==1.14.1
 wsproto==1.2.0
 xdg==5
 yarl==1.8.1
-zipp==3.7.0
+zipp
 #goodreads~=0.3.2
 os
 # threading
