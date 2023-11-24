@@ -20,6 +20,8 @@ async def on_connect():
 @discord_client.event
 async def on_ready():
     print('We have logged in as {0.user}'.format(discord_client))
+    # Set the bot's presence
+    await discord_client.change_presence(activity=discord.Game(name="your game"))
 
 @discord_client.event
 async def on_message(message):
