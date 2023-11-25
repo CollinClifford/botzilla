@@ -213,7 +213,7 @@ Twisted==22.10.0
 txaio==23.1.1
 typing_extensions==4.7.1
 tzdata==2023.3
-ubuntu-advantage-tools==8001
+# ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
 ufw==0.36.1
 unattended-upgrades==0.1
