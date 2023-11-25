@@ -172,7 +172,7 @@ pyproj==3.6.1
 # pyRFC3339==1.1
 # python-apt==2.4.0+ubuntu2
 python-dateutil==2.8.2
-python-debian==0.1.43+ubuntu1.1
+# python-debian==0.1.43+ubuntu1.1
 python-decouple==3.8
 python-dotenv==1.0.0
 python-json-logger==2.0.7
