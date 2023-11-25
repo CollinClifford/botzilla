@@ -1,106 +1,315 @@
 [
-    {
-        "id": 1,
-        "name": "Godzilla",
-        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2015/06/Godzilla2014_20.jpg?w=1500",
-        "ability": "Wall Level at first (Weighs around 100,000 tonnes and moves slowly, comparable to a large sauropods dinosaur. Can destroy trees. This strong due to size), then Small Building Level (Damaged small buildings), then high Building Level+ (Crumbled many buildings by walking through the city. Destroyed a large building by slamming into it), then Town Level (Evaporated seawater in his path completely, could melt large rocks and buildings and fight Kailua at the time. Created a mushroom cloud, a kilometre wide explosion and destroyed a town. Sliced through many buildings with ease), then City Level (Created explosions that engulfed many buildings and punched through a row of skyscrapers. Evaporated a lot of seawater around it. Destroyed Godzilla City and created a crater), then Island Level (Destroyed Monster X's egg that was crashing to Earth like a meteor and completely leveled Tokyo and the surrounding area in the process), then Country Level (Destroyed a UFO that endured the explosion of crashing into Earth that killed the dinosaurs and blew Olga to chunks creating a massive explosion. Scales from his durability, killed comparable kaiju), then high Country Level+ (Scales from his durability plus fought Kiryu), then Moon Level (Created an explosion that blocked the sky and covered the Earth), then Planet Level (Fought and killed kaiju on this level), then Large Planet Level (Could melt the Earth), then baseline Star Level (Destroyed the planeload Goatherd which is much heavier than the moon, denser than Earth and moved at a percent of the speed of light).",
-        "firstAppearance": 1956,
-        "link": "https://power-level-world.fandom.com/wiki/Godzilla"
-    },
-    {
-        "id": 2,
-        "name": "Mothra",
-        "img": "https://godzilla.com/wp-content/uploads/2019/03/05053747/mo_mothra_main.png",
-        "ability": "Mothra can fly anywhere from mach 1 to 5 and usually flies around mach 3. Mothra can create powerful wind gusts using her wings. Mothra can drop reflective scales from her wings that act as a 3-D mirror, reflecting opponents' projectile attacks back at them. The scales also have a poisonous effect on enemies. Using the scales diminishes Mothra's flight ability, and for this reason it is usually used as a weapon of last resort. Using the scales diminishes Mothra's flight ability, and for this reason it is usually used as a weapon of last resort. Mothra is an immortal goddess with similarities to a phoenix. Despite having experienced death on multiple occasions, Mothra is always reincarnated through an egg that she lays through divine methods before anything else in her lifetime. Mothra can launch a barrage of poisonous stingers from her thorax.",
-        "firstAppearance": 1961,
-        "link": "https://godzilla.fandom.com/wiki/Mothra_(MonsterVerse)"
-    },
-    {
-        "id": 3,
-        "name": "Ghidorah",
-        "img": "https://w0.peakpx.com/wallpaper/215/292/HD-wallpaper-king-ghidorah-art-clouds-concept-dragon-heads-monster-three-wings.jpg",
-        "ability": "Alpha call, Bio-electrical nature, Consciousness transferal, Durability, Energy drain, Hibernation, Forked tongues, Gravity beams, Hurricane winds, Intelligence, Meteorokinesis, Telepathy ",
-        "firstAppearance": 1964,
-        "link": "https://godzilla.fandom.com/wiki/King_Ghidorah_(MonsterVerse)"
-    },
-    {
-        "id": 4,
-        "name": "Rodan",
-        "img": "https://i.pinimg.com/originals/8d/5b/2c/8d5b2cb3c6bf2bf3d5953be9c2d0ac5e.jpg",
-        "ability": "Bio-volcanic nature, Cyclonic drift streams, Extreme heat resistance, Sharp beak, Volcano-agrikinesis",
-        "firstAppearance": 1956,
-        "link": "https://godzilla.fandom.com/wiki/Rodan_(MonsterVerse)"
-    },
-    {
-        "id": 5,
-        "name": "Methuselah",
-        "img": "hhttps://i.pinimg.com/736x/c6/58/a4/c658a472e99fc66e3a8248e0b1e318ad.jpg",
-        "ability": "Camouflage, Strength and combat, Amphibious abilities, Durability ",
-        "firstAppearance": 2019,
-        "link": "https://godzilla.fandom.com/wiki/Methuselah"
-    },
-    {
-        "id": 5,
-        "name": "Scylla",
-        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/10/Godzilla-King-of-the-Monsters-Scylla.jpg",
-        "ability": "Amphibious nature, Bacterial processing, Durability, Liquid nitrogen emission, Strength and combat",
-        "firstAppearance": 2019,
-        "link": "https://godzilla.fandom.com/wiki/Scylla"
-    },
-    {
-        "id": 6,
-        "name": "Behemoth",
-        "img": "https://images1.sw-cdn.net/cdn-cgi/image/quality=85,gravity=auto,format=auto,fit=scale-down,width=1920/product/picture/710x528_29107841_15622252_1569393719_1_0.jpg",
-        "ability": "Bio-seismic nature,Durability,Excrement,Reforestation,Strength and combat, Tusks",
-        "firstAppearance": 2019,
-        "link": "https://godzilla.fandom.com/wiki/Behemoth"
-    },
-    {
-        "id": 7,
-        "name": "King_Kong",
-        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/godzilla-vs-kong-king-kong-1614031050.png",
-        "ability": "Agility,Carnivorous Diet,Durability and stamina, Intelligence,Communication,Senses, Sharp Teeth, Strength and Combat, Weapon Proficiency",
-        "firstAppearance": 1962,
-        "link": "https://godzilla.fandom.com/wiki/King_Kong_(MonsterVerse)"
-    },
-    {
-        "id": 8,
-        "name": "Leviathan",
-        "img": "http://pm1.narvii.com/7232/33987ec49dbf9bf1976223574872677fa8de70c2r1-519-590v2_uhq.jpg",
-        "ability": "n/a",
-        "firstAppearance": 1998,
-        "link": "https://godzilla.fandom.com/wiki/Leviathan"
-    },
-    {
-        "id": 9,
-        "name": "Mokele_Mbembe",
-        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8581dc75-f3df-4e70-9d1e-f113f9e041df/de27y1c-3ce9c4dc-2771-43b4-b562-e4eb6db00a9d.jpg/v1/fill/w_900,h_695,q_75,strp/godzilla_neo___mokele_mbembe_by_kaijusamurai_de27y1c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk1IiwicGF0aCI6IlwvZlwvODU4MWRjNzUtZjNkZi00ZTcwLTlkMWUtZjExM2Y5ZTA0MWRmXC9kZTI3eTFjLTNjZTljNGRjLTI3NzEtNDNiNC1iNTYyLWU0ZWI2ZGIwMGE5ZC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TsaVFWJXQpPC3Np8VwN8qpxpneXIQOSMg7PfbH1cNqk",
-        "ability": "Durability, Strength and combat",
-        "firstAppearance": 2019,
-        "link": "https://godzilla.fandom.com/wiki/Mokele-Mbembe"
-    },
-    {
-        "id": 10,
-        "name": "MUTO",
-        "img": "https://www.scified.com/articles/sh-monsterarts-new-godzilla-muto-figure-21.jpg",
-        "ability": "Bio-Atomic Nature, Claws, Durability, Echolocation, Electromagnetic pulse, Fight, Intellience, Metamorphosis, Reforestation, Reproduction, Speed and Agility, Stamina, Strength and Combat",
-        "firstAppearance": 2014,
-        "link": "https://godzilla.fandom.com/wiki/MUTO"
-    },
-    {
-        "id": 11,
-        "name": "Na_Kika",
-        "img": "https://static.wikia.nocookie.net/godzilla/images/4/4f/Na_Kika_Dominion.jpg/revision/latest?cb=20210501103813",
-        "ability": "Camouflage, Intelligence, Regeneration, Sex change, Strength and Combat",
-        "firstAppearance": 2019,
-        "link": "https://godzilla.fandom.com/wiki/Na_Kika"
-    },
-    {
-        "id": 12,
-        "name": "Tiamat",
-        "img": "https://static.wikia.nocookie.net/godzilla/images/1/10/Tiamat_infobox.jpg/revision/latest?cb=20210424055837",
-        "ability": "Amphibious nature, Hydrokinesis, Razor-sharp scales, Strength and Combat, Toxic vapor",
-        "firstAppearance": 2019,
-        "link": "https://godzilla.fandom.com/wiki/List_of_Godzilla_monsters"
-    }
+  {
+    "Name": "Godzilla",
+    "      ": "colspan=\"2\" style=\"text-align:center;\" ",
+    "Species ": " Mutated Iguana  ",
+    "Alias ": " Kid Dragon Kong Gojira King of the Monsters Monster of Justice Boycub God of The Dinosaurs God of Magic Goji Big G Lord Prince Skylander Miregoji Baby Dinosaur Baby Godzilla Little Godzilla Big Brother Great Brother Little Brother Magic Skylander  Hero of The Dreams  Magic SuperCharger Little Dinosaur Monster Zero-One Son of Tai Son of Sora Prehistoric Humanoid Creature Kaiju Alpha Goji Prehistoric Child Alpha Predator Species 5146_Adam Gojira-Kun Gojira-San   ",
+    "Form(s) ": " GojilasaurusEarthnyanSuper GodzillaBlue Eyes Dragon GodzillaDark GodzillaAngel GodzillaFist Glove GodzillaNeo King GojiraMasqueradeNight Watcher Titanogojira Eternal Soldier Ranger Power Up GodzillaTMT  ",
+    "Gender ": "Male ",
+    "Height ": "Showa 50-metersHeisei80-metersG84-GvB100-metersGvKG-GvDMillennium55-metersG2K-GXM,\u00a0GXMG-GMMG60 metersGMK100-metersGFWGF   ",
+    "Weight ": "Showa 20,000 metric tons[3] Heisei 50,000 metric tons[4]G84-GvB 60,000 metric tons[4]GvKG-GvD Millennium 25,000 metric tons[5]G2K-GXM,GXMG-GMMG 30,000 metric tons[6]GMK 55,000 metric tons[7]GFW 55,000 metric tons[8]GF  ",
+    "Length ": "Showa100-metersHeisei190-metersG84-GvB212.5-metersGvKG-GvDMillennium122.5-metersG2K-GXM,\u00a0GXMG-GMMG120-metersGMK100-metersGFW(Tail) ",
+    "Abilities ": " Vectors Mind Trick Blood Fang Atomic breath Blue Spiral Beam Power Punch Body Slam Lion Uppercut Nuclear Pulse Phoenix Punch Tail Hurricane Spin Elephant Buster Dragon Driver Tyranno Strike Super Regenerative power' Tail Whip  ",
+    "Origins    ": "Lagos Island Odo Island Monster Island Godzilla's House The Pacific Ocean  ",
+    "Enemies ": "King GhidorahSpaceGodzillaMonster XBaganDevilzillaRowan NorthGiganMecha North KoreaPulgasariMegalonQillandonVarmagonObsidiusGigantisKrystalakBiollanteMechagodzillaAmonDestoroyahEvil CoronavirusKeizer GhidorahImoogGrotesque SteveColossal TitanGigan RexUltraman BelialUltraman Tregear Dark Godzilla Ghost Godzilla Zetton Demaaga Alien Baltan Super Alien Hipporito Yapool Alien Bat Ikameijin Gyaos Legion Irys Zedus Gaira Gabara OrgaWarbatBurakiMuto Chrontaku  ",
+    "Allies ": "MothraKing KongDesutmonGameraImoogi (Currcently)MegadonVaranQueen MutoBehemothWatoraMarioKitrasmonLalaRed LizardNagoraiarRamonReuben Hero King Kazma Powerpuff Girls Z  Dexter Spongebob Sqarepants Disney Princess (already married) Spider-Man  Batman  Ultra Warriors  Spyro   Pretty Cures   ",
+    "Family ": "DigiDestined ",
+    "Partner ": "Ash Ketchum ",
+    "Love Interests ": "Sailor Moon Nyuu Kaede Ruby Gillman Ariel  ",
+    "First Appearance ": "Godzilla(1954 Film) ",
+    "All More Appearance ": "Godzilla:Forever ",
+    "Created by ": " Tomoyuki Tanaka,Ishiro Honda,Eiji Tsuburaya,Akira Ifukube  ",
+    "Portrayed by: ": "Kiriyama Renn "
+  },
+  {
+    "Name": "Anguirus",
+    "Species ": "Irradiated Ankylosaurus ",
+    "Form(s) ": "Water Anguirus ",
+    "Gender ": "Male ",
+    "Height ": "90 meters (295 ft) ",
+    "Weight ": "60 000 000 kg ",
+    "Length ": "160 meters (524 ft) ",
+    "Abilities ": "Rolling Thunder Water Blast Earth Slam ",
+    "Origins ": "Lagos Island ",
+    "Enemies ": "Japanese Army King Ghidorah SpaceGodzilla Gigan Megalon Kaiser Ghidorah Monster X Biollante Mechagodzilla Destoroyah Obsidius Krystalak dark Godzilla zetton alien baltan ikameijin gyaos Gabara Orga baruki muto  ",
+    "Allies ": " Gamera imoogi Godzilla (Millenium) Rodan (Millenium) King Caesar (Millenium) Fire Rodan Gorosaurus Zilla Mothra (Depending) Varan Jet Jaguar King Kong Battra godzilla(showa)  ",
+    "Relationships ": " ",
+    "First Appearance ": " ",
+    "Latest Appearance ": " ",
+    "More appearances ": " ",
+    "Created by ": " ",
+    "Portrayed by: ": " "
+  },
+  {
+    "Name": "Meganula"
+  },
+  {
+    "Name": "Rodan",
+    "Species ": "Irradiated Pteranodon ",
+    "Alias ": "Radon Fire Demon Titanis Rodan  ",
+    "Form(s) ": "Fire Rodan ",
+    "Gender ": "Male ",
+    "Height ": "50 Meters ",
+    "Mass ": "15,000 Tons ",
+    "Wingspan ": "120-150 meters ",
+    "Abilities ": "Fire Ray, Wind Speed Flame Kick Burning Fist ",
+    "Enemies ": "Japanese Army Gigan Dark Godzilla King Ghidorah Megalon Demaaga  ",
+    "Allies ": "Godzilla (Millennium) Anguirus (Millennium) Mothra (Millennium) Gorosaurus Varan Baragon (Millennium) King Caesar (Millennium) Manda (Millennium) Minya (Millennium) Kousei Arima (Rodan's Trainer Boy And Childhood Friend)  ",
+    "First Appearance ": "Rodan ",
+    "Latest Appearance ": "Godzilla: King Of Monsters (2019) ",
+    "more appearance ": "Godzilla: forever ",
+    "Voice Actor ": "Christopher sabat "
+  },
+  {
+    "Name": "Moguera"
+  },
+  {
+    "Name": "Varan"
+  },
+  {
+    "Name": "Mothra"
+  },
+  {
+    "Name": "Manda"
+  },
+  {
+    "Name": "Maguma"
+  },
+  {
+    "Name": "Oodako"
+  },
+  {
+    "Name": "King Kong (Toho)"
+  },
+  {
+    "Name": "Matango"
+  },
+  {
+    "Name": "Dogora"
+  },
+  {
+    "Name": "King Ghidorah"
+  },
+  {
+    "Name": "Frankenstein"
+  },
+  {
+    "Name": "Baragon"
+  },
+  {
+    "Name": "Ebirah"
+  },
+  {
+    "Name": "Ookondoru"
+  },
+  {
+    "Name": "Gaira"
+  },
+  {
+    "Name": "Sanda"
+  },
+  {
+    "Name": "Mechani-Kong"
+  },
+  {
+    "Name": "Gorosaurus"
+  },
+  {
+    "Name": "Mondo Island Seasnake"
+  },
+  {
+    "Name": "Kamacuras"
+  },
+  {
+    "Name": "Minya"
+  },
+  {
+    "Name": "Kumonga"
+  },
+  {
+    "Name": "Gabara"
+  },
+  {
+    "Name": "Gezora"
+  },
+  {
+    "Name": "Ganimes"
+  },
+  {
+    "Name": "Kamoebas"
+  },
+  {
+    "Name": "Hedorah"
+  },
+  {
+    "Name": "Gigan"
+  },
+  {
+    "Name": "Jet Jaguar"
+  },
+  {
+    "Name": "Megalon"
+  },
+  {
+    "Name": "Mechagodzilla"
+  },
+  {
+    "Name": "King Caesar"
+  },
+  {
+    "Name": "Titanosaurus"
+  },
+  {
+    "Name": "Shockirus"
+  },
+  {
+    "Name": "Biollante"
+  },
+  {
+    "Name": "Dorats"
+  },
+  {
+    "Name": "Godzillasaurus",
+    "Species ": "Godzillasaurus ",
+    "Alias ": "Ancient Dinosaur of Lagos Island ",
+    "Form(s) ": "Godzilla\u00a0(Irradiated Form) ",
+    "Gender ": "Male ",
+    "Height ": "10 Meters ",
+    "Weight ": "66 Tons ",
+    "Enemies ": "American Army ",
+    "Allies ": "None ",
+    "Relationships ": "Godzilla ",
+    "First Appearance ": "Godzilla vs King Ghidorah ",
+    "Latest Appearance ": "Godzilla vs King Ghidorah ",
+    "Created by ": "Kazuki Omori ",
+    "Portrayed by: ": "Hurricane Ryu' Harike "
+  },
+  {
+    "Name": "Mecha-King Ghidorah"
+  },
+  {
+    "Name": "Battra"
+  },
+  {
+    "Name": "Godzilla Jr."
+  },
+  {
+    "Name": "Mechagodzilla II"
+  },
+  {
+    "Name": "Orochi"
+  },
+  {
+    "Name": "Amano Shiratori"
+  },
+  {
+    "Name": "Kumasogami"
+  },
+  {
+    "Name": "Kaishin Muba"
+  },
+  {
+    "Name": "Utsuno Ikusagami"
+  },
+  {
+    "Name": "M.O.G.U.E.R.A."
+  },
+  {
+    "Name": "Fairy Mothra"
+  },
+  {
+    "Name": "SpaceGodzilla"
+  },
+  {
+    "Name": "Destoroyah"
+  },
+  {
+    "Name": "Garu-Garu"
+  },
+  {
+    "Name": "Desghidorah"
+  },
+  {
+    "Name": "Mothra Leo"
+  },
+  {
+    "Name": "Barem"
+  },
+  {
+    "Name": "Ghogo"
+  },
+  {
+    "Name": "Dagahra"
+  },
+  {
+    "Name": "Grand King Ghidorah"
+  },
+  {
+    "Name": "Zilla",
+    "Species ": "Irradiated Iguana ",
+    "Alias ": " Tuna HeadGINO (Godzilla In Name Only)TrizillaNotzillaFraudzillaZilla JrZilla Boy Zilla San Zilla Kun Reptile Monster  ",
+    "Form(s) ": "Power Up Zilla ",
+    "Gender\u00a0 ": "Male ",
+    "Height ": "50 Meters ",
+    "Weight ": "500 Tons ",
+    "Abilities ": "Speed and Agility, Breath Attack, Asexual Reproduction ",
+    "Origins ": "French PolyneisaIguana ",
+    "Enemies ": "American ArmyCyber-ZillaSpaceGodzillaWarbatKing CobraOrga ",
+    "Allies ": "GodzillaGameraMegadonImoogiMoka AkashiyaHaruhi FujiokaDesutmon ",
+    "Insterest Love ": "Ginormica ",
+    "First Appearance ": "Godzilla (1998) ",
+    "All More  Appearance ": "Godzilla Forever  ",
+    "Created by ": "Roland EmmerichDean DevlinPatrick Tatopoulos "
+  },
+  {
+    "Name": "Orga"
+  },
+  {
+    "Name": "Meganura"
+  },
+  {
+    "Name": "Megaguirus"
+  },
+  {
+    "Name": "Kiryu"
+  },
+  {
+    "Name": "Monster X"
+  },
+  {
+    "Name": "Keizer Ghidorah"
+  },
+  {
+    "Name": "Gamera"
+  },
+  {
+    "Name": "Barugon"
+  },
+  {
+    "Name": "Gyaos"
+  },
+  {
+    "Name": "Viras"
+  },
+  {
+    "Name": "Guiron"
+  },
+  {
+    "Name": "Jiger"
+  },
+  {
+    "Name": "Zigra"
+  },
+  {
+    "Name": "Legion"
+  },
+  {
+    "Name": "Irys"
+  },
+  {
+    "Name": "Zedus"
+  },
+  {
+    "Name": "Daimajin"
+  }
 ]
