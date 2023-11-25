@@ -96,3 +96,4 @@ Werkzeug==2.2.2
 wrapt==1.14.1
 wsproto==1.2.0
 xdg==5
+distutils
