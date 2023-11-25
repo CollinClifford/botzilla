@@ -47,7 +47,7 @@ discord==2.3.2
 discord.py==2.3.2
 distlib==0.3.4
 distro==1.7.0
-distro-info==1.1+ubuntu0.1
+# distro-info==1.1+ubuntu0.1
 Django==4.1.10
 django-classy-tags==4.1.0
 django-extensions==3.2.3
