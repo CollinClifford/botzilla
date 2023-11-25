@@ -54,7 +54,7 @@ django-extensions==3.2.3
 django-filter==2.4.0
 django-sekizai==2.0.0
 djangorestframework==3.14.0
-duplicity==0.8.21
+# duplicity==0.8.21
 evennia==2.2.0
 exceptiongroup==1.1.3
 executing==1.2.0
