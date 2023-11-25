@@ -1,154 +1,258 @@
 [
   {
+    "Name": "Gojira",
+    "Species ": "Irradiated Gojirasaurus",
+    "Alias ": "Godzilla, King of Monsters",
+    "Form(s) ": "Burning Gojira, Gojirasaurus",
+    "Gender ": "Male",
+    "Height ": "50 - 108.2 m",
+    "Weight ": "20,000 - 90,000",
+    "Length ": "100 - 167.7 m",
+    "Abilities ": "Atomic Breath",
+    "Origins ": "Odo Islands",
+    "Enemies ": "Japanese Army",
+    "Allies ": "None",
+    "Relationships ": "baby godzilla/little godzilla/godzilla junior (adopted son), biollante, space godzilla(clones)",
+    "First Appearance ": "Gojira",
+    "Latest Appearance ": "Godzilla: Final Wars (Stock Footage)",
+    "Created by ": "nuclear tests in the pacific",
+    "Portrayed by: ": "Haruo Nakajima, Katsumi Tezuka, Shinji Takagi, Isao Zushi, Toru Kawai"
+  },
+  {
     "Name": "Godzilla",
-    "      ": "colspan=\"2\" style=\"text-align:center;\" ",
-    "Species ": " Mutated Iguana  ",
-    "Alias ": " Kid Dragon Kong Gojira King of the Monsters Monster of Justice Boycub God of The Dinosaurs God of Magic Goji Big G Lord Prince Skylander Miregoji Baby Dinosaur Baby Godzilla Little Godzilla Big Brother Great Brother Little Brother Magic Skylander  Hero of The Dreams  Magic SuperCharger Little Dinosaur Monster Zero-One Son of Tai Son of Sora Prehistoric Humanoid Creature Kaiju Alpha Goji Prehistoric Child Alpha Predator Species 5146_Adam Gojira-Kun Gojira-San   ",
-    "Form(s) ": " GojilasaurusEarthnyanSuper GodzillaBlue Eyes Dragon GodzillaDark GodzillaAngel GodzillaFist Glove GodzillaNeo King GojiraMasqueradeNight Watcher Titanogojira Eternal Soldier Ranger Power Up GodzillaTMT  ",
-    "Gender ": "Male ",
-    "Height ": "Showa 50-metersHeisei80-metersG84-GvB100-metersGvKG-GvDMillennium55-metersG2K-GXM,\u00a0GXMG-GMMG60 metersGMK100-metersGFWGF   ",
-    "Weight ": "Showa 20,000 metric tons[3] Heisei 50,000 metric tons[4]G84-GvB 60,000 metric tons[4]GvKG-GvD Millennium 25,000 metric tons[5]G2K-GXM,GXMG-GMMG 30,000 metric tons[6]GMK 55,000 metric tons[7]GFW 55,000 metric tons[8]GF  ",
-    "Length ": "Showa100-metersHeisei190-metersG84-GvB212.5-metersGvKG-GvDMillennium122.5-metersG2K-GXM,\u00a0GXMG-GMMG120-metersGMK100-metersGFW(Tail) ",
-    "Abilities ": " Vectors Mind Trick Blood Fang Atomic breath Blue Spiral Beam Power Punch Body Slam Lion Uppercut Nuclear Pulse Phoenix Punch Tail Hurricane Spin Elephant Buster Dragon Driver Tyranno Strike Super Regenerative power' Tail Whip  ",
-    "Origins    ": "Lagos Island Odo Island Monster Island Godzilla's House The Pacific Ocean  ",
-    "Enemies ": "King GhidorahSpaceGodzillaMonster XBaganDevilzillaRowan NorthGiganMecha North KoreaPulgasariMegalonQillandonVarmagonObsidiusGigantisKrystalakBiollanteMechagodzillaAmonDestoroyahEvil CoronavirusKeizer GhidorahImoogGrotesque SteveColossal TitanGigan RexUltraman BelialUltraman Tregear Dark Godzilla Ghost Godzilla Zetton Demaaga Alien Baltan Super Alien Hipporito Yapool Alien Bat Ikameijin Gyaos Legion Irys Zedus Gaira Gabara OrgaWarbatBurakiMuto Chrontaku  ",
-    "Allies ": "MothraKing KongDesutmonGameraImoogi (Currcently)MegadonVaranQueen MutoBehemothWatoraMarioKitrasmonLalaRed LizardNagoraiarRamonReuben Hero King Kazma Powerpuff Girls Z  Dexter Spongebob Sqarepants Disney Princess (already married) Spider-Man  Batman  Ultra Warriors  Spyro   Pretty Cures   ",
-    "Family ": "DigiDestined ",
-    "Partner ": "Ash Ketchum ",
-    "Love Interests ": "Sailor Moon Nyuu Kaede Ruby Gillman Ariel  ",
-    "First Appearance ": "Godzilla(1954 Film) ",
-    "All More Appearance ": "Godzilla:Forever ",
-    "Created by ": " Tomoyuki Tanaka,Ishiro Honda,Eiji Tsuburaya,Akira Ifukube  ",
-    "Portrayed by: ": "Kiriyama Renn "
+    "Species ": "Mutated Iguana",
+    "Alias ": " Kid, Dragon Kong, Gojira, King of the Monsters, Monster of Justice, Boycub, God of The Dinosaurs, God of Magic, Goji, Big G, Lord, Prince, Skylander, Miregoji, Baby Dinosaur, Baby Godzilla, Little Godzilla, Big Brother, Great Brother, Little Brother, Magic Skylander, Hero of The Dreams,  Magic SuperCharger, Little Dinosaur, Monster Zero-One, Son of Tai, Son of Sora, Prehistoric Humanoid Creature, Kaiju Alpha, Goji, Prehistoric Child, Alpha Predator, Species 5146_Adam, Gojira-Kun, Gojira-San",
+    "Form(s) ": "Gojilasaurus, Earthnyan, Super Godzilla, Blue Eyes Dragon Godzilla, Dark Godzilla, Angel Godzilla, Fist Glove Godzilla, Neo King Gojira, Masquerade, Night Watcher, Titanogojira, Eternal Soldier Ranger, Power Up Godzilla",
+    "Gender ": "Male",
+    "Height ": "Showa: 50 m, Heisei: 80 - 100 m, Millennium: 55 - 100 m",
+    "Weight ": "Showa: 20,000 metric tons, Heisei: 50,000 - 60,000 metric tons, Millennium: 25,000 - 55,000 metric tons",
+    "Length ": "Showa: 100 m, Heisei: 190 - 212.5 m, Millennium 100 -122.5 m",
+    "Abilities ": "Vectors, Mind Trick, Blood Fang, Atomic breath, Blue Spiral Beam, Power Punch, Body Slam, Lion Uppercut, Nuclear Pulse, Phoenix Punch, Tail Hurricane Spin, Elephant Buster, Dragon Driver, Tyranno Strike, Super Regenerative power, Tail Whip",
+    "Origins    ": "Lagos Island, Odo Island, Monster Island, Godzilla's House, The Pacific Ocean",
+    "Enemies ": "King Ghidorah, SpaceGodzilla, Monster X, Bagan, Devilzilla, Rowan North, Gigan, Mecha North Korea, Pulgasari, Megalon, Qillandon, Varmagon, Obsidius, Gigantis, Krystalak, Biollante, Mechagodzilla, Amon, Destoroyah, Evil Coronavirus, Keizer Ghidorah, Imoog, Grotesque Steve, Colossal Titan, Gigan Rex, Ultraman Belial, Ultraman Tregear, Dark Godzilla, Ghost Godzilla, Zetton, Demaaga, Alien Baltan, Super Alien Hipporito, Yapool, Alien Bat, Ikameijin, Gyaos, Legion, Irys, Zedus, Gaira, Gabara, Orga, Warbat, Buraki, Muto, Chrontaku ",
+    "Allies ": "Mothra, King Kong, Desutmon, Gamera, Imoogi (Currcently), Megadon, Varan, Queen Muto, Behemoth, Watora, Mario, Kitrasmon, Lala, Red Lizard, Nagoraiar, Ramon, Reuben Hero, King Kazma, Powerpuff Girls Z, Dexter, Spongebob Sqarepants, Disney Princess (already married), Spider-Man, Batman, Ultra Warriors, Spyro, Pretty Cures",
+    "Family ": "DigiDestined",
+    "Partner ": "Ash Ketchum",
+    "Love Interests ": "Sailor Moon, Nyuu Kaede, Ruby Gillman, Ariel",
+    "First Appearance ": "Godzilla (1954 Film)",
+    "Other Apperances": "Godzilla: Forever",
+    "Created by ": " Tomoyuki Tanaka, Ishiro Honda, Eiji Tsuburaya, Akira Ifukube",
+    "Portrayed by: ": "Kiriyama Renn"
   },
   {
     "Name": "Anguirus",
-    "Species ": "Irradiated Ankylosaurus ",
-    "Form(s) ": "Water Anguirus ",
-    "Gender ": "Male ",
-    "Height ": "90 meters (295 ft) ",
-    "Weight ": "60 000 000 kg ",
-    "Length ": "160 meters (524 ft) ",
-    "Abilities ": "Rolling Thunder Water Blast Earth Slam ",
-    "Origins ": "Lagos Island ",
-    "Enemies ": "Japanese Army King Ghidorah SpaceGodzilla Gigan Megalon Kaiser Ghidorah Monster X Biollante Mechagodzilla Destoroyah Obsidius Krystalak dark Godzilla zetton alien baltan ikameijin gyaos Gabara Orga baruki muto  ",
-    "Allies ": " Gamera imoogi Godzilla (Millenium) Rodan (Millenium) King Caesar (Millenium) Fire Rodan Gorosaurus Zilla Mothra (Depending) Varan Jet Jaguar King Kong Battra godzilla(showa)  ",
-    "Relationships ": " ",
-    "First Appearance ": " ",
-    "Latest Appearance ": " ",
-    "More appearances ": " ",
-    "Created by ": " ",
-    "Portrayed by: ": " "
+    "Species ": "Irradiated Ankylosaurus",
+    "Form(s) ": "Water Anguirus",
+    "Gender ": "Male",
+    "Height ": "90 m",
+    "Weight ": "60,000,000 kg",
+    "Length ": "160 m",
+    "Abilities ": "Rolling Thunder, Water Blast, Earth Slam",
+    "Origins ": "Lagos Island",
+    "Enemies ": "Japanese Army, King Ghidorah, SpaceGodzilla, Gigan, Megalon, Kaiser Ghidorah, Monster X, Biollante, Mechagodzilla, Destoroyah, Obsidius, Krystalak, dark Godzilla, zetton, alien baltan, ikameijin, gyaos, Gabara, Orga, baruki, muto",
+    "Allies ": " Gamera, imoogi, Godzilla (Millenium), Rodan (Millenium), King Caesar (Millenium), Fire Rodan, Gorosaurus, Zilla, Mothra (Depending), Varan, Jet Jaguar, King Kong, Battra godzilla (Showa)"
   },
   {
     "Name": "Meganula"
   },
   {
     "Name": "Rodan",
-    "Species ": "Irradiated Pteranodon ",
-    "Alias ": "Radon Fire Demon Titanis Rodan  ",
-    "Form(s) ": "Fire Rodan ",
-    "Gender ": "Male ",
-    "Height ": "50 Meters ",
-    "Mass ": "15,000 Tons ",
-    "Wingspan ": "120-150 meters ",
-    "Abilities ": "Fire Ray, Wind Speed Flame Kick Burning Fist ",
-    "Enemies ": "Japanese Army Gigan Dark Godzilla King Ghidorah Megalon Demaaga  ",
-    "Allies ": "Godzilla (Millennium) Anguirus (Millennium) Mothra (Millennium) Gorosaurus Varan Baragon (Millennium) King Caesar (Millennium) Manda (Millennium) Minya (Millennium) Kousei Arima (Rodan's Trainer Boy And Childhood Friend)  ",
-    "First Appearance ": "Rodan ",
-    "Latest Appearance ": "Godzilla: King Of Monsters (2019) ",
-    "more appearance ": "Godzilla: forever ",
-    "Voice Actor ": "Christopher sabat "
+    "Species ": "Irradiated Pteranodon",
+    "Alias ": "Radon, Fire Demon, Titanis Rodan",
+    "Form(s) ": "Fire Rodan",
+    "Gender ": "Male",
+    "Height ": "50 m",
+    "Mass ": "15,000 metric tons",
+    "Wingspan ": "120-150 m",
+    "Abilities ": "Fire Ray, Wind Speed, Flame Kick, Burning Fist",
+    "Enemies ": "Japanese Army, Gigan, Dark Godzilla, King Ghidorah, Megalon, Demaaga",
+    "Allies ": "Godzilla (Millennium), Anguirus (Millennium), Mothra (Millennium), Gorosaurus, Varan, Baragon (Millennium), King Caesar (Millennium), Manda (Millennium), Minya (Millennium), Kousei Arima (Rodan's Trainer Boy And Childhood Friend)",
+    "First Appearance ": "Rodan",
+    "Latest Appearance ": "Godzilla: King Of Monsters (2019)",
+    "Other Apperances": "Godzilla: forever",
+    "Voice Actor ": "Christopher sabat"
   },
   {
-    "Name": "Moguera"
+    "Name": "Moguera",
+    "Abilities ": "Fire Beam, High Temperature, Burrowing",
+    "Enemies ": "Godzilla, Rodan, Anguirus",
+    "Allies ": "King Ghidorah, Gigan, Megalon"
   },
   {
-    "Name": "Varan"
+    "Name": "Varan",
+    "Enemies ": "SpaceGodzilla, Evil Kaijus, Evil Machines, Evil Godzilla, Ridley (Formerly), Gitlch Animes, Mechagodzilla, Dark Kong, Tabuu, Grotesque Steve",
+    "Allies ": "Godzilla (Fangame Playable and Medias), Mothra, Rodan, Gorosaurus, Leonel, 00, Hadzuki Watra, Hadzuki Watra, Rambo, Toon Link, Isadora, Rad, Ridley, Behemoth, Pteragon, Big turtle, hat Kid, Isaac",
+    "Voice Actor ": "Trevor"
   },
   {
-    "Name": "Mothra"
+    "Name": "Mothra",
+    "Enemies ": "King Ghidorah",
+    "Allies ": "Godzilla (Closest Friends/Interspecies Lovers), Battra (Brother), Battra Lea, Rodan (friend), Varan, Zilla, Ridley, Megadon, Desutmon",
+    "Voice Actor ": "Jamie Marchi"
   },
   {
-    "Name": "Manda"
+    "Name": "Manda",
+    "Enemies ": "King Ghidorah",
+    "Allies ": "Godzilla"
   },
   {
     "Name": "Maguma"
   },
   {
-    "Name": "Oodako"
+    "Name": "Oodako",
+    "Species ": "Gigantic Octopus",
+    "Alias ": "Oodako, Giant Octopus",
+    "Allies ": "Godzilla, Rodan, Anguirus",
+    "Enemies ": "King Kong, Gaira, Frankenstein",
+    "First Appearance ": "King Kong vs Godzilla"
   },
   {
-    "Name": "King Kong (Toho)"
+    "Name": "King Kong",
+    "Height ": "20-45 m",
+    "Origins ": "Farou Island",
+    "First Appearance ": "King Kong vs Godzilla",
+    "Other Apperances": "King Kong Escapes, Godzilla Unleashed: Double Smash"
   },
   {
-    "Name": "Matango"
+    "Name": "Matango",
+    "Origins": "South Pacific",
+    "Abilities ": "Spreading Spores, Strength, Healing"
   },
   {
-    "Name": "Dogora"
+    "Name": "Dogora",
+    "First Appearance ": "Dogora",
+    "Abilities ": "Fly, Spin Attack",
+    "Allies ": "King Ghidorah, Gigan, Megalon, Orga, Mechagodzilla, Monster X",
+    "Enemies ": "Godzilla"
   },
   {
-    "Name": "King Ghidorah"
+    "Name": "King Ghidorah",
+    "Allies ": "Gigan",
+    "Enemies ": "Godzilla",
+    "Voice Actor ": "Frank Walker",
+    "Portrayed by ": "Atsushi Hashimoto"
   },
   {
-    "Name": "Frankenstein"
+    "Name": "Frankenstein",
+    "Abilities ": "Growing, Immortality, Athletics"
   },
   {
-    "Name": "Baragon"
+    "Name": "Baragon",
+    "Abilities ": "Glowing horn of fire, burrow",
+    "Allies ": "Godzilla, Rodan, Mothra, Anguirus, Gorosaurus, Minilla, Manda, Kumonga, Varan, King Caesar, Mechagodzilla, MOGUERA, Zilla, Jet Jaguar, Kamoebas, Titanosaurus, Sanda, Gaira, Kamacuras",
+    "Enemies ": "Frankenstein, Godzilla (GMK), King Ghidorah, Mecha-King Ghidorah, Hyper Mecha-King Ghidorah, Kiryu, Trilopod, Magita, Gigan",
+    "First Appearance ": "Frankenstein vs Baragon",
+    "Latest Appearance ": "Godziban"
   },
   {
-    "Name": "Ebirah"
+    "Name": "Ebirah",
+    "Species ": "Giant Lobster",
+    "Alias ": "Horror of the Deep, Evirah",
+    "Allies ": "Hedorah, Godzilla, Togera",
+    "Enemies ": "King Ghidorah, Gigan, Megalon",
+    "First Appearance ": "Godzilla vs the Sea Monster",
+    "Other Apperances": "Ebirah, Horror of the Deep",
+    "Latest Appearance ": "Godzilla: Final Wars"
   },
   {
     "Name": "Ookondoru"
   },
   {
-    "Name": "Gaira"
+    "Name": "Gaira",
+    "Species ": "Frankenstein Spawn, Giant Ogre, Mutated Minion of Maoh, Tsunojiras-derived Mutant",
+    "Alias ": "Green Gargantua, Bigfoot Gaira, Gailah, Giant Ogre, Gaila",
+    "Allies ": "Gigan",
+    "Enemies ": "Oodako, Sanda",
+    "First Appearance ": "The War of the Gagantuas"
   },
   {
-    "Name": "Sanda"
+    "Name": "Sanda",
+    "Species ": "Frankenstein Spawn, Giant Ogre, Mutated Minion of Maoh",
+    "Alias ": "Brown Gargantua, Giant Ogre",
+    "Allies ": "Godzilla, King Caesar, Kamacuras, Rodan, Anguirus, Kamoebas, Gorosaurus, Kumonga, Varan, Baragon, Zilla, Jet Jaguar",
+    "Enemies ": "Gaira, Hedorah"
   },
   {
-    "Name": "Mechani-Kong"
+    "Name": "Mechani-Kong",
+    "Allies ": "Mechagodzilla",
+    "Enemies ": "King Kong"
   },
   {
-    "Name": "Gorosaurus"
+    "Name": "Gorosaurus",
+    "First Appearance ": "King Kong Escapes",
+    "Other Apperances": "Destroy All Monsters",
+    "Abilities ": "Kangaroo Kick, Biting, Burrowing, Tooth and Claw",
+    "Allies ": "Godzilla, Rodan, Anguirus, Megadon, Acacius, Solomon, Sanda, Behemoth, Desutmon, Gigaman, Zone Fighter, Utsuno Ikusagami, Kong - Somestime, Zilla, Giant Iguana, Giant Eagle, Giant Turtle, Komeda, Giant Bear",
+    "Enemies ": "King Ghidorah, SpaceGodzilla, Megalon, Gabara, Shadow of Red"
   },
   {
     "Name": "Mondo Island Seasnake"
   },
   {
-    "Name": "Kamacuras"
+    "Name": "Kamacuras",
+    "Species ": "Irradiated Preying Mantis",
+    "Alias ": "Gimantis, G-Mantle, Kamakilas, Kamakiras",
+    "Enemies ": "Godzilla, Godzilla Jr/Manilla",
+    "First Appearance ": "Son of Godzilla"
   },
   {
-    "Name": "Minya"
+    "Name": "Minya",
+    "Alias ": "Minilla"
   },
   {
-    "Name": "Kumonga"
+    "Name": "Kumonga",
+    "Abilities ": "Webbing, Sword-like Legs, Poison Stinger",
+    "First Appearance ": "Son of Godzilla"
   },
   {
-    "Name": "Gabara"
+    "Name": "Gabara",
+    "Allies ": "King Ghidorah, Salunga",
+    "Enemies ": "Godzilla"
   },
   {
     "Name": "Gezora"
   },
   {
-    "Name": "Ganimes"
+    "Name": "Ganimes",
+    "Species ": "Mutant Crab",
+    "Enemies ": "Kamaebas",
+    "Abilities ": "Giant Claw"
   },
   {
-    "Name": "Kamoebas"
+    "Name": "Kamoebas",
+    "Species ": "Giant Rock Turtle",
+    "Alias ": "Kameba, Kamoeba",
+    "Allies ": "Yog (Creator), Gezora and Ganimes (Brothers), Godzilla",
+    "Enemies ": "Gigan",
+    "First Appearance ": "Space Ameoeba"
   },
   {
-    "Name": "Hedorah"
+    "Name": "Hedorah",
+    "Alias ": "Smog Monster, Deathla",
+    "Abilities ": "Squirting Acid, Red Laser Beam, Fly, Sulpheric Acid",
+    "Enemies ": "Godzilla",
+    "First Appearance ": "Godzilla vs Hedorah"
   },
   {
-    "Name": "Gigan"
+    "Name": "Gigan",
+    "First Appearance ": "Godzilla vs Gigan",
+    "Other Apperances": "Godzilla vs Megalon, Godzilla: Final Wars",
+    "Abilities ": "Hammer Claw, Laser Eye, Cluster Light Beam, Abdomen Buzzsaw, Spiked Tail, Gigan Steel Plasma Spark",
+    "Allies ": "King Ghidorah, Megalon, Godzilla (Godzilla Island), Monster X, Spacegodzilla (Godzilla ongoing), Hedorah, Ogra",
+    "Enemies ": "Godzilla, Anguirus, Jet Jaguar, Zone Fighter, Mothra, Battra, Megalon (Godzilla Island), Destoroyah, Kumonga, Dororin, Rodan, MOGUERA, SpaceGodzilla (Godzilla Rulers of Earth)",
+    "Voice Actor ": "Mark Hamill"
   },
   {
-    "Name": "Jet Jaguar"
+    "Name": "Jet Jaguar",
+    "Abilities ": "Alter Size, Fly",
+    "First Appearance ": "Godzilla vs Megalon"
   },
   {
-    "Name": "Megalon"
+    "Name": "Megalon",
+    "Species ": "Mutated Beetle",
+    "Height ": "55 m",
+    "First Appearance ": "Godzilla vs Megalon",
+    "Abilities ": "Napalm Bombs, Electric Bolt, Omni-Drill Hands"
   },
   {
     "Name": "Mechagodzilla"
@@ -172,7 +276,7 @@
     "Name": "Godzillasaurus",
     "Species ": "Godzillasaurus ",
     "Alias ": "Ancient Dinosaur of Lagos Island ",
-    "Form(s) ": "Godzilla\u00a0(Irradiated Form) ",
+    "Form(s) ": "Godzilla  (Irradiated Form) ",
     "Gender ": "Male ",
     "Height ": "10 Meters ",
     "Weight ": "66 Tons ",
@@ -249,7 +353,7 @@
     "Species ": "Irradiated Iguana ",
     "Alias ": " Tuna HeadGINO (Godzilla In Name Only)TrizillaNotzillaFraudzillaZilla JrZilla Boy Zilla San Zilla Kun Reptile Monster  ",
     "Form(s) ": "Power Up Zilla ",
-    "Gender\u00a0 ": "Male ",
+    "Gender   ": "Male ",
     "Height ": "50 Meters ",
     "Weight ": "500 Tons ",
     "Abilities ": "Speed and Agility, Breath Attack, Asexual Reproduction ",
