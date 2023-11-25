@@ -7,8 +7,12 @@ import discord
 
 current_script_directory = os.path.dirname(os.path.abspath(__file__))
 project_directory = os.path.abspath(os.path.join(current_script_directory, '..', '..'))
-json_file_path = os.path.join(project_directory, 'botzilla/data/monsters.json')
-json_file_path = os.path.abspath(json_file_path)
+# json_file_path = os.path.join(project_directory, 'botzilla/data/monsters.json')
+# json_file_path = os.path.abspath(json_file_path)
+
+current_script_directory = os.path.dirname(os.path.abspath(__file__))
+json_file_path = os.path.join(current_script_directory, 'botzilla/data/monsters.json')
+
 
 # Loads json file
 with open(json_file_path, 'r') as file:
