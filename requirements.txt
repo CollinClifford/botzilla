@@ -34,7 +34,7 @@ click-plugins==1.1.1
 cligj==0.7.2
 colorama==0.4.4
 comm==0.1.4
-command-not-found==0.3
+# command-not-found==0.3
 constantly==15.1.0
 cryptography==41.0.3
 cupshelpers==1.0
